@@ -1,5 +1,3 @@
-# proyectofinal
-Probando a subir el proyecto final
 # Portfolio de Alba Pareja
 
 Portfolio personal de diseño gráfico y web, desarrollado con HTML y CSS. La web presenta los principales ámbitos de trabajo de Alba Pareja y permite navegar entre las páginas de proyectos y su perfil profesional.
